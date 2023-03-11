@@ -1,0 +1,14 @@
+.clic no-clic {
+  color: rgba(255, 255, 255, 1);
+  font-size: 46px;
+  font-family: "Courier New", Courier, monospace;
+  border-bottom: 1px rgb(255, 0, 0);
+}
+.click {
+  color: rgba(255, 255, 255, 1);
+  background-color: rgba(0, 0, 0, 1);
+}
+.no-click {
+  color: rgba(0, 0, 0, 1);
+  background-color: rgba(236, 228, 117, 0.76);
+}
