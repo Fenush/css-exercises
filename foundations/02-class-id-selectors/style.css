@@ -1,11 +1,15 @@
+* {
+    font-size: 24px;
+}
 .odd {
-    font-family: Verdana, Dejavu Sans, sans-serif;
-    background-color: hsla(0, 50%, 40%, 0.5);
+        font-family: Verdana, Dejavu Sans, sans-serif;
+        background-color: hsla(0, 50%, 40%, 0.5);
 }
-#2nd { color: rgba(9, 53, 173, 0.76);
-    font-size: 36px;
+#nd {
+        color: rgba(9, 53, 173, 0.76);
+        font-size: 36px;
 }
-#3rd { font-size: 24px;}
-#4th {background-color: rgba(124, 243, 100, 0.76);
-font-size: 24px;
-font-weight: bold;}
+#th {
+        background-color: rgba(124, 243, 100, 0.76);
+        font-weight: bold;
+    }
